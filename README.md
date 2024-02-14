@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Vinicius Cipriano! 
-- 💻 Estudando Curso Técnico Integrado de Informática
+- 💻 Estudando Curso Técnico Integrado de Informática; 3°
 
 <div>
   <a href="https://beacons.ai/viniciuscipriano">
